@@ -1,0 +1,40 @@
+p.first{
+    text-align: left;
+    text-decoration: underline blue;
+}
+p.second{
+    text-align: center;
+    text-decoration: overline red;
+
+}
+p.third{
+    text-align: right;
+    text-decoration: none;
+}
+.head{
+    text-align: center;
+    color: black;
+    text-shadow: 5px 5px 5px;
+}
+article{
+    line-height: 3;
+    letter-spacing: 2px;
+}
+.img{
+    background-image: url(image.png);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 300px;
+}
+.shadow{
+    background-color: grey;
+    box-shadow: 10px 10px 10px;
+    width: 200px;
+    height: 100px;
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
